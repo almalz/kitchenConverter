@@ -1,0 +1,82 @@
+[
+  {
+    "name": "gram",
+    "symbol": "g",
+    "scale": "mass"
+  },
+  {
+    "name": "kilogram",
+    "symbol": "kg",
+    "scale": "mass"
+  },
+  {
+    "name": "ounce",
+    "symbol": "oz",
+    "scale": "mass"
+  },
+  {
+    "name": "milligram",
+    "symbol": "mg",
+    "scale": "mass"
+  },
+  {
+    "name": "pound",
+    "symbol": "lb",
+    "scale": "mass"
+  },
+  {
+    "name": "liter",
+    "symbol": "l",
+    "scale": "volume"
+  },
+  {
+    "name": "milliliter",
+    "symbol": "ml",
+    "scale": "volume"
+  },
+  {
+    "name": "teaspoon",
+    "symbol": "tsp",
+    "scale": "volume"
+  },
+  {
+    "name": "tablespoon",
+    "symbol": "Tbs",
+    "scale": "volume"
+  },
+  {
+    "name": "fluid ounce",
+    "symbol": "fl-oz",
+    "scale": "volume"
+  },
+  {
+    "name": "cup",
+    "symbol": "cup",
+    "scale": "volume"
+  },
+  {
+    "name": "pint",
+    "symbol": "pnt",
+    "scale": "volume"
+  },
+  {
+    "name": "quart",
+    "symbol": "qt",
+    "scale": "volume"
+  },
+  {
+    "name": "gallon",
+    "symbol": "gal",
+    "scale": "volume"
+  },
+  {
+    "name": "celsius",
+    "symbol": "C",
+    "scale": "temperature"
+  },
+  {
+    "name": "fahrenheit",
+    "symbol": "F",
+    "scale": "temperature"
+  }
+]
